@@ -1,2 +1,2 @@
-# test113-2
-113-2金融期末 金融看板
+# Streamlit_Financial_Dashboard_Trading
+Streamlit Financial Dashboard and Program Trading
